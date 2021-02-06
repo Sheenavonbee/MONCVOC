@@ -10,7 +10,7 @@ Ce projet a été soutenu et validé par un mentor __OC__ sur les critères suiv
 * Intégration de contenu à partir d'une maquette
 * Définition de la structure d'une page web    
 * Maîtrise de la technologie responsive
-* utilisation d'un système de gestion de version
+* Utilisation d'un système de gestion de version
 * HTML5 et CSS3 conformes W3C
                 
                 
